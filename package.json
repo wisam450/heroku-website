@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/wisam450/heroku-website#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.17.0"
   }
 }
